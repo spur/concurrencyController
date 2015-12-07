@@ -1,6 +1,6 @@
 {
   "name": "spur-tap-lock",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple lock system to controller concurrency between tap behaviours.",
   "main": "lib/tap-lock.js",
   "scripts": {
